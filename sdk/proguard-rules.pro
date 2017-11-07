@@ -66,6 +66,6 @@
    public <init> (org.json.JSONObject);
 }
 #com.demo.demo是你的包名
--keep public class com.demo.demo.R$*{
+-keep public class sdk.im.icsoc.net.R$*{
    public static final int *;
 }
